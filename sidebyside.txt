@@ -1,0 +1,68 @@
+<div class="row">
+        <div class="column">
+            <p>
+            <b>Sketching</b> - for as long as i've known myself, i <br> 
+            always love to draw from drawing figures to still life. <br> 
+            There are some subjects i have yet to draw and learn <br>
+            from, i have yet to find my artsyle and make my art <br>
+            somewhat perfect. I strive to make many pieces to display 
+            and interpret my self in those works and show the world <br>
+            what i can do. You never know this could be a side hustle.
+            </p>
+        </div>
+        <div class="column">
+            <p>
+            <b>Reading</b> - can you even consider this my hobby if i've <br>
+            only read a couple of books? the genres i like are: fiction, <br>
+            mystery, fantasy, satire, legend, and drama - to name a few. <br>
+            My favorite read definitely goes to "A Series of Unfortunate <br>
+            Events" - a series of 13 novels made by Lemony Snicket, <br>
+            about the ill-fated lives of the Baudelaire children: this <br>
+            series has death, comedy, dark humor, absurd situations; these <br>
+            are the factors that makes this book a favorite of mine.
+            </p>
+        </div>
+        <div class="column">
+            <p>
+            <b>Playing video games</b> - the games i play are: league of <br>
+            legends, valorant, genshin impact, punishing gray raven, <br>
+            granblue fantasy, mobile legends; just to name a few. half of my <br>
+            leisure time is dedicated to these games - stress inducing but <br>
+            fun. Thinking of video games makes me want to create one myself <br>
+            - maybe in the future i'll get to that.
+            </p>
+        </div>
+    </div>
+
+
+================================================================================
+
+
+<p>
+        <b>Sketching</b> - for as long as i've known myself, i always love to draw from
+        drawing figures to still life. There are some subjects i have yet to draw and learn
+        from, i have yet to find my artsyle and make my art somewhat perfect. I strive to 
+        make many pieces to display and interpret my self in those works and show the world
+        what i can do. You never know this could be a side hustle.
+    </p>
+    <p>
+
+    </p>
+    <p>
+        <b>Reading</b> - can you even consider this my hobby if i've only read a 
+        couple of books? the genres i like are: fiction, mystery, fantasy, satire,
+        legend, and drama - to name a few. My favorite read definitely goes to 
+        "A Series of Unfortunate Events" - a series of 13 novels made by Lemony Snicket,
+        about the ill-fated lives of the Baudelaire children: this series has death, comedy, 
+        dark humor, absurd situations; these are the factors that makes this book a favorite
+        of mine. 
+    </p>
+    <p>
+
+    </p>
+    <p>
+        <b>Playing video games</b> - the games i play are: league of legends, valorant, genshin impact,
+        punishing gray raven, granblue fantasy, mobile legends; just to name a few. half of my 
+        leisure time is dedicated to these games - stress inducing but fun. Thinking of video 
+        games makes me want to create one myself - maybe in the future i'll get to that.
+    </p>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        r e l v y n - c a g a d a s
+    </title>
+</head>
+
+<body>
+
+<h1>
+    h e l l o &ensp; s t r a n g e r !
+</h1>
+
+<div style="background-color: beige;color: black;padding: 20px;">
+<h1>
+    Relvyn <sub>/rēlvin/</sub>
+</h1>
+<p1>
+    Relvyn Joshua U. Cagadas also known as Relvs and Wawa. <br>
+    Born on October 14, 2002 - at Madonna and Child Hospital.
+</p1>
+</div>
+
+<div style="background-color: beige;color: black;padding: 30px;">
+    <h1>
+        h o b b i e s &ensp; a n d &ensp; l i k e s
+    </h1>
+    <p>
+        Sketching - for as long as i've known, i always love to draw
+    </p>
+    <p>
+        Reading - can you even consider this my hobby if i've only read a 
+        couple of books? the genres i like are: fiction, mystery, fantasy, satire,
+        legend, and drama - to name a few. My favorite read definitely goes to 
+        "A Series of Unfortunate Events" - a series of 13 novels made by Lemony Snicket,
+        about the ill-fated lives of the Baudelaire children: this series has death, comedy, 
+        dark humor, absurd situations; these are the factors that makes this book a favorite
+        of mine. 
+    </p>
+    <p>
+        Playing video games - lol
+    </p>
+</div>
+
+</body>
+</html>
